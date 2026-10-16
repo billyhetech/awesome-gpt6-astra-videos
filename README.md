@@ -3,7 +3,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.9a4df07571.webp" alt="A wall of viral videos made with GPT-6 Astra: games, 3D scenes, explainers and motion graphics" width="100%"></a>
+<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.368b002814.webp" alt="A wall of viral videos made with GPT-6 Astra: games, 3D scenes, explainers and motion graphics" width="100%"></a>
 
 Viral videos made with **GPT-6 Astra** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
@@ -40,7 +40,7 @@ Every entry links to the creator's original post · [submit a video](https://git
 ## Explainers
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/claude-fable-5-1-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>I used Claude Fable 5.1 and GPT-6 Astra to build a self-learning trading algori…</b></a><br><a href="https://x.com/Dan1ro0/status/2109773710009790681"><b>@Dan1ro0</b></a> · <a href="prompts/dan1ro0-790681.md">Details</a><br><sub>Canvas · 304K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/claude-fable-5-1-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/dan1ro0-790681/preview.webp" alt="GPT-6 Astra video by @Dan1ro0" width="100%"></a><br><a href="https://x.com/Dan1ro0/status/2109773710009790681"><b>@Dan1ro0</b></a> · <a href="prompts/dan1ro0-790681.md">Details</a><br><sub>Canvas · 304K views</sub></td></tr>
 </table>
 
 ## 3D scenes
@@ -52,7 +52,7 @@ Every entry links to the creator's original post · [submit a video](https://git
 ## Games & interactive
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>A 15-year-old kid from China asked his parents for $45.</b></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">Details</a><br><sub>Canvas · 141K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">Details</a><br><sub>Canvas · 141K views</sub></td></tr>
 </table>
 
 ## Long-form

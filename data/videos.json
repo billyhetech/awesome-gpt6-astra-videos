@@ -402,6 +402,18 @@
   "stats_snapshot": {
    "views": 304306,
    "captured_at": "2026-10-16"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/dan1ro0-790681/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/dan1ro0-790681/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/dan1ro0-790681/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/dan1ro0-790681/poster.jpg",
+   "width": 720,
+   "height": 892,
+   "duration_ms": 25000,
+   "bytes": 3906225,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -422,6 +434,18 @@
   "stats_snapshot": {
    "views": 141209,
    "captured_at": "2026-10-16"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/poster.jpg",
+   "width": 1278,
+   "height": 720,
+   "duration_ms": 92533,
+   "bytes": 10602732,
+   "synced_at": "2026-10-16"
   }
  }
 ]

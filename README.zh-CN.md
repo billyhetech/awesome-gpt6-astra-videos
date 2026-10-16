@@ -3,7 +3,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.9a4df07571.webp" alt="GPT-6 Astra 爆款视频墙:游戏、3D 场景、讲解动画、动态图形" width="100%"></a>
+<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.368b002814.webp" alt="GPT-6 Astra 爆款视频墙:游戏、3D 场景、讲解动画、动态图形" width="100%"></a>
 
 用 **GPT-6 Astra**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
@@ -40,7 +40,7 @@
 ## 讲解动画
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/claude-fable-5-1-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>I used Claude Fable 5.1 and GPT-6 Astra to build a self-learning trading algori…</b></a><br><a href="https://x.com/Dan1ro0/status/2109773710009790681"><b>@Dan1ro0</b></a> · <a href="prompts/dan1ro0-790681.md">详情</a><br><sub>Canvas · 304K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/claude-fable-5-1-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/dan1ro0-790681/preview.webp" alt="GPT-6 Astra video by @Dan1ro0" width="100%"></a><br><a href="https://x.com/Dan1ro0/status/2109773710009790681"><b>@Dan1ro0</b></a> · <a href="prompts/dan1ro0-790681.md">详情</a><br><sub>Canvas · 304K views</sub></td></tr>
 </table>
 
 ## 3D 场景
@@ -52,7 +52,7 @@
 ## 游戏与交互
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>A 15-year-old kid from China asked his parents for $45.</b></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">详情</a><br><sub>Canvas · 141K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">详情</a><br><sub>Canvas · 141K views</sub></td></tr>
 </table>
 
 ## 长片
