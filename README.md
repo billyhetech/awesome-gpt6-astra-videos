@@ -7,7 +7,7 @@
 
 Viral videos made with **GPT-6 Astra** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 12 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
+**[▶ Watch all 14 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,15 +15,15 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 Every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-16): 12 videos total
+- Latest update (2026-10-16): 14 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
 - [Motion graphics](#motion-graphics) (11)
-- [Explainers](#explainers) (0)
+- [Explainers](#explainers) (1)
 - [3D scenes](#3d-scenes) (1)
-- [Games & interactive](#games--interactive) (0)
+- [Games & interactive](#games--interactive) (1)
 - [Long-form](#long-form) (0)
 - [Music videos](#music-videos) (0)
 - [Latest videos](#latest-videos)
@@ -39,7 +39,9 @@ Every entry links to the creator's original post · [submit a video](https://git
 
 ## Explainers
 
-_No entries yet — [submit one](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)._
+<table>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/claude-fable-5-1-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>I used Claude Fable 5.1 and GPT-6 Astra to build a self-learning trading algori…</b></a><br><a href="https://x.com/Dan1ro0/status/2109773710009790681"><b>@Dan1ro0</b></a> · <a href="prompts/dan1ro0-790681.md">Details</a><br><sub>Canvas · 304K views</sub></td></tr>
+</table>
 
 ## 3D scenes
 
@@ -49,7 +51,9 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gpt6-ast
 
 ## Games & interactive
 
-_No entries yet — [submit one](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)._
+<table>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>A 15-year-old kid from China asked his parents for $45.</b></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">Details</a><br><sub>Canvas · 141K views</sub></td></tr>
+</table>
 
 ## Long-form
 
@@ -61,6 +65,8 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gpt6-ast
 
 ## Latest videos
 
+- [I used Claude Fable 5.1 and GPT-6 Astra to build a self-learning trading algori…](https://clawshelf.com/ai-videos/gpt-6-astra/claude-fable-5-1-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Dan1ro0](https://x.com/Dan1ro0/status/2109773710009790681) · [Details](prompts/dan1ro0-790681.md)
+- [A 15-year-old kid from China asked his parents for $45.](https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@elvar_official](https://x.com/elvar_official/status/2109591871727001654) · [Details](prompts/elvar-official-001654.md)
 - [Do NOT use GPT-6 Astra to help fabricate things you need by prompting them into…](https://clawshelf.com/ai-videos/gpt-6-astra/not-use-gpt-6-astra-help?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@slimer48484](https://x.com/slimer48484/status/2110697784898953664) · [Details](prompts/slimer48484-953664.md)
 - [GPT-6 Astra vs Human in After Effects](https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-vs-human-after?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AmirMushich](https://x.com/AmirMushich/status/2110394800411185404) · [Details](prompts/amirmushich-185404.md)
 - [> be Alexandr Wang](https://clawshelf.com/ai-videos/gpt-6-astra/alexandr-wang?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@kirillk_web3](https://x.com/kirillk_web3/status/2109994814649651211) · [Details](prompts/kirillk-web3-651211.md)

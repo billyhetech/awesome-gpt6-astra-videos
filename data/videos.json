@@ -383,5 +383,45 @@
    "bytes": 1491370,
    "synced_at": "2026-10-16"
   }
+ },
+ {
+  "slug": "dan1ro0-790681",
+  "seo_slug": "claude-fable-5-1-gpt-6-astra",
+  "model": "gpt-6-astra",
+  "author": "Dan1ro0",
+  "author_url": "https://x.com/Dan1ro0",
+  "post_url": "https://x.com/Dan1ro0/status/2109773710009790681",
+  "title": "I used Claude Fable 5.1 and GPT-6 Astra to build a self-learning trading algori…",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-16",
+  "stats_snapshot": {
+   "views": 304306,
+   "captured_at": "2026-10-16"
+  }
+ },
+ {
+  "slug": "elvar-official-001654",
+  "seo_slug": "15-year-old-kid-china-his",
+  "model": "gpt-6-astra",
+  "author": "elvar_official",
+  "author_url": "https://x.com/elvar_official",
+  "post_url": "https://x.com/elvar_official/status/2109591871727001654",
+  "title": "A 15-year-old kid from China asked his parents for $45.",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-16",
+  "stats_snapshot": {
+   "views": 141209,
+   "captured_at": "2026-10-16"
+  }
  }
 ]

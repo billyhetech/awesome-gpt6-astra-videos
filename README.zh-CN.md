@@ -7,7 +7,7 @@
 
 用 **GPT-6 Astra**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 12 条视频](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
+**[▶ 在 clawshelf.com 观看全部 14 条视频](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,15 +15,15 @@
 
 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-16):共 12 条
+- 最近更新(2026-10-16):共 14 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
 - [动态图形](#动态图形) (11)
-- [讲解动画](#讲解动画) (0)
+- [讲解动画](#讲解动画) (1)
 - [3D 场景](#3d-场景) (1)
-- [游戏与交互](#游戏与交互) (0)
+- [游戏与交互](#游戏与交互) (1)
 - [长片](#长片) (0)
 - [音乐视频](#音乐视频) (0)
 - [最新收录](#最新收录)
@@ -39,7 +39,9 @@
 
 ## 讲解动画
 
-_还没有收录 —— [来提交第一个](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)。_
+<table>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/claude-fable-5-1-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>I used Claude Fable 5.1 and GPT-6 Astra to build a self-learning trading algori…</b></a><br><a href="https://x.com/Dan1ro0/status/2109773710009790681"><b>@Dan1ro0</b></a> · <a href="prompts/dan1ro0-790681.md">详情</a><br><sub>Canvas · 304K views</sub></td></tr>
+</table>
 
 ## 3D 场景
 
@@ -49,7 +51,9 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 游戏与交互
 
-_还没有收录 —— [来提交第一个](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)。_
+<table>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>A 15-year-old kid from China asked his parents for $45.</b></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">详情</a><br><sub>Canvas · 141K views</sub></td></tr>
+</table>
 
 ## 长片
 
@@ -61,6 +65,8 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 最新收录
 
+- [I used Claude Fable 5.1 and GPT-6 Astra to build a self-learning trading algori…](https://clawshelf.com/ai-videos/gpt-6-astra/claude-fable-5-1-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Dan1ro0](https://x.com/Dan1ro0/status/2109773710009790681) · [详情](prompts/dan1ro0-790681.md)
+- [A 15-year-old kid from China asked his parents for $45.](https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@elvar_official](https://x.com/elvar_official/status/2109591871727001654) · [详情](prompts/elvar-official-001654.md)
 - [Do NOT use GPT-6 Astra to help fabricate things you need by prompting them into…](https://clawshelf.com/ai-videos/gpt-6-astra/not-use-gpt-6-astra-help?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@slimer48484](https://x.com/slimer48484/status/2110697784898953664) · [详情](prompts/slimer48484-953664.md)
 - [GPT-6 Astra vs Human in After Effects](https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-vs-human-after?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AmirMushich](https://x.com/AmirMushich/status/2110394800411185404) · [详情](prompts/amirmushich-185404.md)
 - [> be Alexandr Wang](https://clawshelf.com/ai-videos/gpt-6-astra/alexandr-wang?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@kirillk_web3](https://x.com/kirillk_web3/status/2109994814649651211) · [详情](prompts/kirillk-web3-651211.md)
