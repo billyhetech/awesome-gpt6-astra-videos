@@ -447,5 +447,25 @@
    "bytes": 10602732,
    "synced_at": "2026-10-16"
   }
+ },
+ {
+  "slug": "bridgebench-319302",
+  "seo_slug": "weeks-nerfbench-results-live-no-nerfs",
+  "model": "gpt-6-astra",
+  "author": "bridgebench",
+  "author_url": "https://x.com/bridgebench",
+  "post_url": "https://x.com/bridgebench/status/2111086355023319302",
+  "title": "This week's NerfBench results are live. No nerfs detected.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 39339,
+   "captured_at": "2026-10-17"
+  }
  }
 ]
