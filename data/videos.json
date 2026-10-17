@@ -479,5 +479,25 @@
    "bytes": 384426,
    "synced_at": "2026-10-17"
   }
+ },
+ {
+  "slug": "envoldev-048620",
+  "seo_slug": "gemini-4-argon-vs-sonnet-5-5",
+  "model": "gpt-6-astra",
+  "author": "EnvolDev",
+  "author_url": "https://x.com/EnvolDev",
+  "post_url": "https://x.com/EnvolDev/status/2111175666398048620",
+  "title": "Gemini 4 Argon vs Sonnet 5.5 vs GPT-6 Astra vs Opus 5.5",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 83839,
+   "captured_at": "2026-10-17"
+  }
  }
 ]

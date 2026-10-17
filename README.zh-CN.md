@@ -7,7 +7,7 @@
 
 用 **GPT-6 Astra**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 15 条视频](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
+**[▶ 在 clawshelf.com 观看全部 16 条视频](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@
 
 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-17):共 15 条
+- 最近更新(2026-10-17):共 16 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (12)
+- [动态图形](#动态图形) (13)
 - [讲解动画](#讲解动画) (1)
 - [3D 场景](#3d-场景) (1)
 - [游戏与交互](#游戏与交互) (1)
@@ -36,6 +36,8 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/congrats-gemini-4-argon-taking-top?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/scaleailabs-040176/preview.webp" alt="GPT-6 Astra video by @ScaleAILabs" width="100%"></a><br><a href="https://x.com/ScaleAILabs/status/2110455008450040176"><b>@ScaleAILabs</b></a> · <a href="prompts/scaleailabs-040176.md">详情</a><br><sub>Canvas · 99K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-achieves-sota-real?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/chooi-jeq-858195/preview.webp" alt="GPT-6 Astra video by @chooi_jeq" width="100%"></a><br><a href="https://x.com/chooi_jeq/status/2110474369952858195"><b>@chooi_jeq</b></a> · <a href="prompts/chooi-jeq-858195.md">详情</a><br><sub>Canvas · 60K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/not-use-gpt-6-astra-help?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/slimer48484-953664/preview.webp" alt="GPT-6 Astra video by @slimer48484" width="100%"></a><br><a href="https://x.com/slimer48484/status/2110697784898953664"><b>@slimer48484</b></a> · <a href="prompts/slimer48484-953664.md">详情</a><br><sub>Canvas · 50K views</sub></td></tr>
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/weeks-nerfbench-results-live-no-nerfs?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/bridgebench-319302/preview.webp" alt="GPT-6 Astra video by @bridgebench" width="100%"></a><br><a href="https://x.com/bridgebench/status/2111086355023319302"><b>@bridgebench</b></a> · <a href="prompts/bridgebench-319302.md">详情</a><br><sub>Canvas · 39K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-vs-human-after?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/amirmushich-185404/preview.webp" alt="GPT-6 Astra video by @AmirMushich" width="100%"></a><br><a href="https://x.com/AmirMushich/status/2110394800411185404"><b>@AmirMushich</b></a> · <a href="prompts/amirmushich-185404.md">详情</a><br><sub>Canvas · 29K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-muse-wonder-claude?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/ann-nnng-810390/preview.webp" alt="GPT-6 Astra video by @ann_nnng" width="100%"></a><br><a href="https://x.com/ann_nnng/status/2110345498028810390"><b>@ann_nnng</b></a> · <a href="prompts/ann-nnng-810390.md">详情</a><br><sub>Canvas · 26K views</sub></td></tr>
 </table>
+
+[▶ 在 clawshelf.com 查看全部 13 条](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
 
 ## 讲解动画
 
@@ -65,6 +67,7 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 最新收录
 
+- [Gemini 4 Argon vs Sonnet 5.5 vs GPT-6 Astra vs Opus 5.5](https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-vs-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@EnvolDev](https://x.com/EnvolDev/status/2111175666398048620) · [详情](prompts/envoldev-048620.md)
 - [This week's NerfBench results are live. No nerfs detected.](https://clawshelf.com/ai-videos/gpt-6-astra/weeks-nerfbench-results-live-no-nerfs?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@bridgebench](https://x.com/bridgebench/status/2111086355023319302) · [详情](prompts/bridgebench-319302.md)
 - [I used Claude Fable 5.1 and GPT-6 Astra to build a self-learning trading algori…](https://clawshelf.com/ai-videos/gpt-6-astra/claude-fable-5-1-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Dan1ro0](https://x.com/Dan1ro0/status/2109773710009790681) · [详情](prompts/dan1ro0-790681.md)
 - [A 15-year-old kid from China asked his parents for $45.](https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@elvar_official](https://x.com/elvar_official/status/2109591871727001654) · [详情](prompts/elvar-official-001654.md)
