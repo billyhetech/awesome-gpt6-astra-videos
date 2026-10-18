@@ -530,6 +530,18 @@
   "stats_snapshot": {
    "views": 86419,
    "captured_at": "2026-10-18"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 60557,
+   "bytes": 8462421,
+   "synced_at": "2026-10-18"
   }
  }
 ]
