@@ -511,5 +511,25 @@
    "bytes": 1971264,
    "synced_at": "2026-10-17"
   }
+ },
+ {
+  "slug": "hiwise-aigc-145080",
+  "seo_slug": "codex-magpie-token",
+  "model": "gpt-6-astra",
+  "author": "hiwise_aigc",
+  "author_url": "https://x.com/hiwise_aigc",
+  "post_url": "https://x.com/hiwise_aigc/status/2111372474764145080",
+  "title": "兄弟们，Codex + Magpie，才是真正的 Token 自由！",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 86419,
+   "captured_at": "2026-10-18"
+  }
  }
 ]
