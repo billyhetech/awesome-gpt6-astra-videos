@@ -594,6 +594,18 @@
   "stats_snapshot": {
    "views": 34219,
    "captured_at": "2026-10-19"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/envoldev-654672/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/envoldev-654672/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/envoldev-654672/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/envoldev-654672/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 25000,
+   "bytes": 2477997,
+   "synced_at": "2026-10-19"
   }
  }
 ]
