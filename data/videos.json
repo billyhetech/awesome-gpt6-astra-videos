@@ -575,5 +575,25 @@
    "bytes": 8462421,
    "synced_at": "2026-10-19"
   }
+ },
+ {
+  "slug": "envoldev-654672",
+  "seo_slug": "deepseek-v4-1-flash-1017-vs",
+  "model": "gpt-6-astra",
+  "author": "EnvolDev",
+  "author_url": "https://x.com/EnvolDev",
+  "post_url": "https://x.com/EnvolDev/status/2111842240649654672",
+  "title": "DeepSeek V4.1 Flash 1017 vs GPT-6 Astra",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-19",
+  "stats_snapshot": {
+   "views": 34219,
+   "captured_at": "2026-10-19"
+  }
  }
 ]
