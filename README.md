@@ -7,7 +7,7 @@
 
 Viral videos made with **GPT-6 Astra** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 17 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
+**[▶ Watch all 18 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 Every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-18): 17 videos total
+- Latest update (2026-10-19): 18 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Motion graphics](#motion-graphics) (14)
+- [Motion graphics](#motion-graphics) (15)
 - [Explainers](#explainers) (1)
 - [3D scenes](#3d-scenes) (1)
 - [Games & interactive](#games--interactive) (1)
@@ -37,7 +37,7 @@ Every entry links to the creator's original post · [submit a video](https://git
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-achieves-sota-real?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/chooi-jeq-858195/preview.webp" alt="GPT-6 Astra video by @chooi_jeq" width="100%"></a><br><a href="https://x.com/chooi_jeq/status/2110474369952858195"><b>@chooi_jeq</b></a> · <a href="prompts/chooi-jeq-858195.md">Details</a><br><sub>Canvas · 60K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/not-use-gpt-6-astra-help?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/slimer48484-953664/preview.webp" alt="GPT-6 Astra video by @slimer48484" width="100%"></a><br><a href="https://x.com/slimer48484/status/2110697784898953664"><b>@slimer48484</b></a> · <a href="prompts/slimer48484-953664.md">Details</a><br><sub>Canvas · 50K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/weeks-nerfbench-results-live-no-nerfs?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/bridgebench-319302/preview.webp" alt="GPT-6 Astra video by @bridgebench" width="100%"></a><br><a href="https://x.com/bridgebench/status/2111086355023319302"><b>@bridgebench</b></a> · <a href="prompts/bridgebench-319302.md">Details</a><br><sub>Canvas · 39K views</sub></td></tr>
 </table>
 
-[▶ See all 14 on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
+[▶ See all 15 on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
 
 ## Explainers
 
@@ -67,6 +67,7 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gpt6-ast
 
 ## Latest videos
 
+- [兄弟们，这套 AI Coding 组合真有点离谱！](https://clawshelf.com/ai-videos/gpt-6-astra/ai-coding?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AndyL5cc](https://x.com/AndyL5cc/status/2111479600475939075) · [Details](prompts/andyl5cc-939075.md)
 - [兄弟们，Codex + Magpie，才是真正的 Token 自由！](https://clawshelf.com/ai-videos/gpt-6-astra/codex-magpie-token?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@hiwise_aigc](https://x.com/hiwise_aigc/status/2111372474764145080) · [Details](prompts/hiwise-aigc-145080.md)
 - [Gemini 4 Argon vs Sonnet 5.5 vs GPT-6 Astra vs Opus 5.5](https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-vs-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@EnvolDev](https://x.com/EnvolDev/status/2111175666398048620) · [Details](prompts/envoldev-048620.md)
 - [This week's NerfBench results are live. No nerfs detected.](https://clawshelf.com/ai-videos/gpt-6-astra/weeks-nerfbench-results-live-no-nerfs?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@bridgebench](https://x.com/bridgebench/status/2111086355023319302) · [Details](prompts/bridgebench-319302.md)

@@ -543,5 +543,25 @@
    "bytes": 8462421,
    "synced_at": "2026-10-18"
   }
+ },
+ {
+  "slug": "andyl5cc-939075",
+  "seo_slug": "ai-coding",
+  "model": "gpt-6-astra",
+  "author": "AndyL5cc",
+  "author_url": "https://x.com/AndyL5cc",
+  "post_url": "https://x.com/AndyL5cc/status/2111479600475939075",
+  "title": "兄弟们，这套 AI Coding 组合真有点离谱！",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-19",
+  "stats_snapshot": {
+   "views": 75203,
+   "captured_at": "2026-10-19"
+  }
  }
 ]
