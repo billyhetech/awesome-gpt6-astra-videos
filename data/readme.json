@@ -1,10 +1,12 @@
 {
  "mosaic": {
-  "url": "https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.1037121d44.webp",
+  "url": "https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.fd3cf6cd1f.webp",
   "width": 640,
   "height": 360,
   "slugs": [
+   "spisallyouneed-964327",
    "kirillk-web3-651211",
+   "anatolikopadze-321081",
    "dan1ro0-790681",
    "stefanogpt-789797",
    "artificialanlys-970576",
@@ -13,9 +15,7 @@
    "bhavani-00007-055212",
    "rubenssoto-ai-221048",
    "scaleailabs-040176",
-   "hiwise-aigc-145080",
-   "ann-nnng-126769",
-   "envoldev-048620"
+   "hiwise-aigc-145080"
   ]
  }
 }
