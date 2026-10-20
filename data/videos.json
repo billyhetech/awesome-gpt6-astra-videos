@@ -671,5 +671,25 @@
    "bytes": 2749936,
    "synced_at": "2026-10-20"
   }
+ },
+ {
+  "slug": "omarsar0-157440",
+  "seo_slug": "llms-were-beginning-bullish-world-models",
+  "model": "gpt-6-astra",
+  "author": "omarsar0",
+  "author_url": "https://x.com/omarsar0",
+  "post_url": "https://x.com/omarsar0/status/2112256058358157440",
+  "title": "LLMs were just the beginning. Bullish on world models, and I think they are the…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-20",
+  "stats_snapshot": {
+   "views": 46522,
+   "captured_at": "2026-10-20"
+  }
  }
 ]
