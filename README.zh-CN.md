@@ -7,7 +7,7 @@
 
 用 **GPT-6 Astra**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 19 条视频](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
+**[▶ 在 clawshelf.com 观看全部 21 条视频](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@
 
 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-19):共 19 条
+- 最近更新(2026-10-20):共 21 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (16)
+- [动态图形](#动态图形) (18)
 - [讲解动画](#讲解动画) (1)
 - [3D 场景](#3d-场景) (1)
 - [游戏与交互](#游戏与交互) (1)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/ai-coding?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/andyl5cc-939075/preview.webp" alt="GPT-6 Astra video by @AndyL5cc" width="100%"></a><br><a href="https://x.com/AndyL5cc/status/2111479600475939075"><b>@AndyL5cc</b></a> · <a href="prompts/andyl5cc-939075.md">详情</a><br><sub>Canvas · 75K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-achieves-sota-real?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/chooi-jeq-858195/preview.webp" alt="GPT-6 Astra video by @chooi_jeq" width="100%"></a><br><a href="https://x.com/chooi_jeq/status/2110474369952858195"><b>@chooi_jeq</b></a> · <a href="prompts/chooi-jeq-858195.md">详情</a><br><sub>Canvas · 60K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/not-use-gpt-6-astra-help?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/slimer48484-953664/preview.webp" alt="GPT-6 Astra video by @slimer48484" width="100%"></a><br><a href="https://x.com/slimer48484/status/2110697784898953664"><b>@slimer48484</b></a> · <a href="prompts/slimer48484-953664.md">详情</a><br><sub>Canvas · 50K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 16 条](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
+[▶ 在 clawshelf.com 查看全部 18 条](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
 
 ## 讲解动画
 
@@ -67,6 +67,8 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 最新收录
 
+- [Introducing SKY-001, the first Engineering World Model.](https://clawshelf.com/ai-videos/gpt-6-astra/introducing-sky-001-first-engineering-world?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@spisallyouneed](https://x.com/spisallyouneed/status/2112242023805964327) · [详情](prompts/spisallyouneed-964327.md)
+- [Sam Altman after finding out a lab nobody was watching just built a model 100x…](https://clawshelf.com/ai-videos/gpt-6-astra/sam-altman-after-finding-out-lab?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AnatoliKopadze](https://x.com/AnatoliKopadze/status/2112243445687321081) · [详情](prompts/anatolikopadze-321081.md)
 - [兄弟们，这套 AI Coding 组合真有点离谱！](https://clawshelf.com/ai-videos/gpt-6-astra/ai-coding?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AndyL5cc](https://x.com/AndyL5cc/status/2111479600475939075) · [详情](prompts/andyl5cc-939075.md)
 - [DeepSeek V4.1 Flash 1017 vs GPT-6 Astra](https://clawshelf.com/ai-videos/gpt-6-astra/deepseek-v4-1-flash-1017-vs?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@EnvolDev](https://x.com/EnvolDev/status/2111842240649654672) · [详情](prompts/envoldev-654672.md)
 - [兄弟们，Codex + Magpie，才是真正的 Token 自由！](https://clawshelf.com/ai-videos/gpt-6-astra/codex-magpie-token?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@hiwise_aigc](https://x.com/hiwise_aigc/status/2111372474764145080) · [详情](prompts/hiwise-aigc-145080.md)
