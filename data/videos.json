@@ -703,5 +703,25 @@
    "bytes": 850273,
    "synced_at": "2026-10-20"
   }
+ },
+ {
+  "slug": "darshal-043269",
+  "seo_slug": "gpt-6-astra-vs-minimax-m3",
+  "model": "gpt-6-astra",
+  "author": "darshal_",
+  "author_url": "https://x.com/darshal_",
+  "post_url": "https://x.com/darshal_/status/2112553636761043269",
+  "title": "🚨 GPT-6 Astra vs. MiniMax M3.1 Flash: Same challenge. Two AI models.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-21",
+  "stats_snapshot": {
+   "views": 61095,
+   "captured_at": "2026-10-21"
+  }
  }
 ]

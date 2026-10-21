@@ -7,7 +7,7 @@
 
 Viral videos made with **GPT-6 Astra** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 22 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
+**[▶ Watch all 23 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 Every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-20): 22 videos total
+- Latest update (2026-10-21): 23 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Motion graphics](#motion-graphics) (19)
+- [Motion graphics](#motion-graphics) (20)
 - [Explainers](#explainers) (1)
 - [3D scenes](#3d-scenes) (1)
 - [Games & interactive](#games--interactive) (1)
@@ -37,7 +37,7 @@ Every entry links to the creator's original post · [submit a video](https://git
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/codex-magpie-token?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/preview.webp" alt="GPT-6 Astra video by @hiwise_aigc" width="100%"></a><br><a href="https://x.com/hiwise_aigc/status/2111372474764145080"><b>@hiwise_aigc</b></a> · <a href="prompts/hiwise-aigc-145080.md">Details</a><br><sub>Canvas · 86K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-vs-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/envoldev-048620/preview.webp" alt="GPT-6 Astra video by @EnvolDev" width="100%"></a><br><a href="https://x.com/EnvolDev/status/2111175666398048620"><b>@EnvolDev</b></a> · <a href="prompts/envoldev-048620.md">Details</a><br><sub>Canvas · 84K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/ai-coding?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/andyl5cc-939075/preview.webp" alt="GPT-6 Astra video by @AndyL5cc" width="100%"></a><br><a href="https://x.com/AndyL5cc/status/2111479600475939075"><b>@AndyL5cc</b></a> · <a href="prompts/andyl5cc-939075.md">Details</a><br><sub>Canvas · 75K views</sub></td></tr>
 </table>
 
-[▶ See all 19 on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
+[▶ See all 20 on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
 
 ## Explainers
 
@@ -67,6 +67,7 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gpt6-ast
 
 ## Latest videos
 
+- [🚨 GPT-6 Astra vs. MiniMax M3.1 Flash: Same challenge. Two AI models.](https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-vs-minimax-m3?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@darshal_](https://x.com/darshal_/status/2112553636761043269) · [Details](prompts/darshal-043269.md)
 - [Introducing SKY-001, the first Engineering World Model.](https://clawshelf.com/ai-videos/gpt-6-astra/introducing-sky-001-first-engineering-world?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@spisallyouneed](https://x.com/spisallyouneed/status/2112242023805964327) · [Details](prompts/spisallyouneed-964327.md)
 - [Sam Altman after finding out a lab nobody was watching just built a model 100x…](https://clawshelf.com/ai-videos/gpt-6-astra/sam-altman-after-finding-out-lab?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AnatoliKopadze](https://x.com/AnatoliKopadze/status/2112243445687321081) · [Details](prompts/anatolikopadze-321081.md)
 - [LLMs were just the beginning. Bullish on world models, and I think they are the…](https://clawshelf.com/ai-videos/gpt-6-astra/llms-were-beginning-bullish-world-models?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@omarsar0](https://x.com/omarsar0/status/2112256058358157440) · [Details](prompts/omarsar0-157440.md)
