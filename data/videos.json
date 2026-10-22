@@ -767,5 +767,25 @@
    "bytes": 35609886,
    "synced_at": "2026-10-22"
   }
+ },
+ {
+  "slug": "ai-screening-087364",
+  "seo_slug": "gemini-4-carbon-checkpoint-arena-vs",
+  "model": "gpt-6-astra",
+  "author": "AI_Screening",
+  "author_url": "https://x.com/AI_Screening",
+  "post_url": "https://x.com/AI_Screening/status/2112916947923087364",
+  "title": "Gemini 4 Carbon checkpoint in Arena vs. Argon vs. GPT-6 Astra",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-22",
+  "stats_snapshot": {
+   "views": 56486,
+   "captured_at": "2026-10-22"
+  }
  }
 ]
