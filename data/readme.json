@@ -1,21 +1,33 @@
 {
  "mosaic": {
-  "url": "https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.fd3cf6cd1f.webp",
-  "width": 640,
-  "height": 360,
+  "url": "https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.9174de3a62.webp",
+  "width": 960,
+  "height": 480,
   "slugs": [
    "spisallyouneed-964327",
    "kirillk-web3-651211",
    "anatolikopadze-321081",
    "dan1ro0-790681",
    "stefanogpt-789797",
+   "nousresearch-244623",
    "artificialanlys-970576",
    "aihubmix-199856",
    "elvar-official-001654",
    "bhavani-00007-055212",
    "rubenssoto-ai-221048",
    "scaleailabs-040176",
-   "hiwise-aigc-145080"
+   "hiwise-aigc-145080",
+   "ann-nnng-126769",
+   "envoldev-048620",
+   "andyl5cc-939075",
+   "darshal-043269",
+   "chooi-jeq-858195",
+   "slimer48484-953664",
+   "omarsar0-157440",
+   "bridgebench-319302",
+   "envoldev-654672",
+   "amirmushich-185404",
+   "ann-nnng-810390"
   ]
  }
 }
