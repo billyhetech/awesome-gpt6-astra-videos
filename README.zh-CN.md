@@ -7,23 +7,23 @@
 
 用 **GPT-6 Astra**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 25 条视频](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
+**[▶ 在 clawshelf.com 观看全部 27 条视频](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
 其他单模型专集:[Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [MiniMax H3](https://github.com/billyhetech/awesome-minimax-h3-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [Grok Imagine](https://github.com/billyhetech/awesome-grok-imagine-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos)
 
-每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
+[`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **1 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-22):共 25 条
+- 最近更新(2026-10-23):共 27 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (22)
+- [动态图形](#动态图形) (23)
 - [讲解动画](#讲解动画) (1)
 - [3D 场景](#3d-场景) (1)
-- [游戏与交互](#游戏与交互) (1)
+- [游戏与交互](#游戏与交互) (2)
 - [长片](#长片) (0)
 - [音乐视频](#音乐视频) (0)
 - [最新收录](#最新收录)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/congrats-gemini-4-argon-taking-top?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/scaleailabs-040176/preview.webp" alt="GPT-6 Astra video by @ScaleAILabs" width="100%"></a><br><a href="https://x.com/ScaleAILabs/status/2110455008450040176"><b>@ScaleAILabs</b></a> · <a href="prompts/scaleailabs-040176.md">详情</a><br><sub>Canvas · 99K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/codex-magpie-token?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/preview.webp" alt="GPT-6 Astra video by @hiwise_aigc" width="100%"></a><br><a href="https://x.com/hiwise_aigc/status/2111372474764145080"><b>@hiwise_aigc</b></a> · <a href="prompts/hiwise-aigc-145080.md">详情</a><br><sub>Canvas · 86K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-vs-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/envoldev-048620/preview.webp" alt="GPT-6 Astra video by @EnvolDev" width="100%"></a><br><a href="https://x.com/EnvolDev/status/2111175666398048620"><b>@EnvolDev</b></a> · <a href="prompts/envoldev-048620.md">详情</a><br><sub>Canvas · 84K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 22 条](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
+[▶ 在 clawshelf.com 查看全部 23 条](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
 
 ## 讲解动画
 
@@ -54,7 +54,7 @@
 ## 游戏与交互
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">详情</a><br><sub>Canvas · 141K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">详情</a><br><sub>Canvas · 141K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/agi-developers-world-unite-break-grip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>"AGI developers of the world, unite! Break the grip of the few. Build a future…</b></a><br><a href="https://x.com/Xanderwow_A/status/2113345392238903325"><b>@Xanderwow_A</b></a> · <a href="prompts/xanderwow-a-903325.md">提示词</a><br><sub>Canvas · 32K views</sub></td></tr>
 </table>
 
 ## 长片
@@ -67,6 +67,8 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 最新收录
 
+- ["AGI developers of the world, unite! Break the grip of the few. Build a future…](https://clawshelf.com/ai-videos/gpt-6-astra/agi-developers-world-unite-break-grip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Xanderwow_A](https://x.com/Xanderwow_A/status/2113345392238903325) · [提示词](prompts/xanderwow-a-903325.md)
+- [We just open-sourced 1,300+ 3D models.](https://clawshelf.com/ai-videos/gpt-6-astra/open-sourced-1300-3d-models?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Scenario_gg](https://x.com/Scenario_gg/status/2113635335267643591) · [详情](prompts/scenario-gg-643591.md)
 - [Jensen closed his GTC Berlin 2026 keynote with this Hermes Agent demo as the fi…](https://clawshelf.com/ai-videos/gpt-6-astra/jensen-closed-his-gtc-berlin-2026?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@NousResearch](https://x.com/NousResearch/status/2113010017645244623) · [详情](prompts/nousresearch-244623.md)
 - [Gemini 4 Carbon checkpoint in Arena vs. Argon vs. GPT-6 Astra](https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-carbon-checkpoint-arena-vs?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AI_Screening](https://x.com/AI_Screening/status/2112916947923087364) · [详情](prompts/ai-screening-087364.md)
 - [🚨 GPT-6 Astra vs. MiniMax M3.1 Flash: Same challenge. Two AI models.](https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-vs-minimax-m3?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@darshal_](https://x.com/darshal_/status/2112553636761043269) · [详情](prompts/darshal-043269.md)

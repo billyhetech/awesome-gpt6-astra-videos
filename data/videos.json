@@ -799,5 +799,45 @@
    "bytes": 2374069,
    "synced_at": "2026-10-22"
   }
+ },
+ {
+  "slug": "xanderwow-a-903325",
+  "seo_slug": "agi-developers-world-unite-break-grip",
+  "model": "gpt-6-astra",
+  "author": "Xanderwow_A",
+  "author_url": "https://x.com/Xanderwow_A",
+  "post_url": "https://x.com/Xanderwow_A/status/2113345392238903325",
+  "title": "\"AGI developers of the world, unite! Break the grip of the few. Build a future…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "：GPT-6-Astra/Claude-Opus5.5\n参考影片：Avengers: Endgame (2019) https://t.co/u7KF6F1guK",
+  "prompt_partial": false,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 31608,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "scenario-gg-643591",
+  "seo_slug": "open-sourced-1300-3d-models",
+  "model": "gpt-6-astra",
+  "author": "Scenario_gg",
+  "author_url": "https://x.com/Scenario_gg",
+  "post_url": "https://x.com/Scenario_gg/status/2113635335267643591",
+  "title": "We just open-sourced 1,300+ 3D models.",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 30358,
+   "captured_at": "2026-10-23"
+  }
  }
 ]

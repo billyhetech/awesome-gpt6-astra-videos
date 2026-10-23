@@ -7,23 +7,23 @@
 
 Viral videos made with **GPT-6 Astra** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 25 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
+**[▶ Watch all 27 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
 Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [MiniMax H3](https://github.com/billyhetech/awesome-minimax-h3-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [Grok Imagine](https://github.com/billyhetech/awesome-grok-imagine-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos)
 
-Every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
+**1 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-22): 25 videos total
+- Latest update (2026-10-23): 27 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Motion graphics](#motion-graphics) (22)
+- [Motion graphics](#motion-graphics) (23)
 - [Explainers](#explainers) (1)
 - [3D scenes](#3d-scenes) (1)
-- [Games & interactive](#games--interactive) (1)
+- [Games & interactive](#games--interactive) (2)
 - [Long-form](#long-form) (0)
 - [Music videos](#music-videos) (0)
 - [Latest videos](#latest-videos)
@@ -37,7 +37,7 @@ Every entry links to the creator's original post · [submit a video](https://git
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/congrats-gemini-4-argon-taking-top?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/scaleailabs-040176/preview.webp" alt="GPT-6 Astra video by @ScaleAILabs" width="100%"></a><br><a href="https://x.com/ScaleAILabs/status/2110455008450040176"><b>@ScaleAILabs</b></a> · <a href="prompts/scaleailabs-040176.md">Details</a><br><sub>Canvas · 99K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/codex-magpie-token?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/preview.webp" alt="GPT-6 Astra video by @hiwise_aigc" width="100%"></a><br><a href="https://x.com/hiwise_aigc/status/2111372474764145080"><b>@hiwise_aigc</b></a> · <a href="prompts/hiwise-aigc-145080.md">Details</a><br><sub>Canvas · 86K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-vs-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/envoldev-048620/preview.webp" alt="GPT-6 Astra video by @EnvolDev" width="100%"></a><br><a href="https://x.com/EnvolDev/status/2111175666398048620"><b>@EnvolDev</b></a> · <a href="prompts/envoldev-048620.md">Details</a><br><sub>Canvas · 84K views</sub></td></tr>
 </table>
 
-[▶ See all 22 on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
+[▶ See all 23 on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
 
 ## Explainers
 
@@ -54,7 +54,7 @@ Every entry links to the creator's original post · [submit a video](https://git
 ## Games & interactive
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">Details</a><br><sub>Canvas · 141K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">Details</a><br><sub>Canvas · 141K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/agi-developers-world-unite-break-grip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>"AGI developers of the world, unite! Break the grip of the few. Build a future…</b></a><br><a href="https://x.com/Xanderwow_A/status/2113345392238903325"><b>@Xanderwow_A</b></a> · <a href="prompts/xanderwow-a-903325.md">Prompt</a><br><sub>Canvas · 32K views</sub></td></tr>
 </table>
 
 ## Long-form
@@ -67,6 +67,8 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gpt6-ast
 
 ## Latest videos
 
+- ["AGI developers of the world, unite! Break the grip of the few. Build a future…](https://clawshelf.com/ai-videos/gpt-6-astra/agi-developers-world-unite-break-grip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Xanderwow_A](https://x.com/Xanderwow_A/status/2113345392238903325) · [Prompt](prompts/xanderwow-a-903325.md)
+- [We just open-sourced 1,300+ 3D models.](https://clawshelf.com/ai-videos/gpt-6-astra/open-sourced-1300-3d-models?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Scenario_gg](https://x.com/Scenario_gg/status/2113635335267643591) · [Details](prompts/scenario-gg-643591.md)
 - [Jensen closed his GTC Berlin 2026 keynote with this Hermes Agent demo as the fi…](https://clawshelf.com/ai-videos/gpt-6-astra/jensen-closed-his-gtc-berlin-2026?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@NousResearch](https://x.com/NousResearch/status/2113010017645244623) · [Details](prompts/nousresearch-244623.md)
 - [Gemini 4 Carbon checkpoint in Arena vs. Argon vs. GPT-6 Astra](https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-carbon-checkpoint-arena-vs?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AI_Screening](https://x.com/AI_Screening/status/2112916947923087364) · [Details](prompts/ai-screening-087364.md)
 - [🚨 GPT-6 Astra vs. MiniMax M3.1 Flash: Same challenge. Two AI models.](https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-vs-minimax-m3?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@darshal_](https://x.com/darshal_/status/2112553636761043269) · [Details](prompts/darshal-043269.md)
