@@ -3,7 +3,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.d078172116.webp" alt="A wall of viral videos made with GPT-6 Astra: games, 3D scenes, explainers and motion graphics" width="100%"></a>
+<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.b83f5a0c6b.webp" alt="A wall of viral videos made with GPT-6 Astra: games, 3D scenes, explainers and motion graphics" width="100%"></a>
 
 Viral videos made with **GPT-6 Astra** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
@@ -54,7 +54,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 ## Games & interactive
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">Details</a><br><sub>Canvas · 141K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/agi-developers-world-unite-break-grip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>"AGI developers of the world, unite! Break the grip of the few. Build a future…</b></a><br><a href="https://x.com/Xanderwow_A/status/2113345392238903325"><b>@Xanderwow_A</b></a> · <a href="prompts/xanderwow-a-903325.md">Prompt</a><br><sub>Canvas · 32K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">Details</a><br><sub>Canvas · 141K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/agi-developers-world-unite-break-grip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-903325/preview.webp" alt="GPT-6 Astra video by @Xanderwow_A" width="100%"></a><br><a href="https://x.com/Xanderwow_A/status/2113345392238903325"><b>@Xanderwow_A</b></a> · <a href="prompts/xanderwow-a-903325.md">Prompt</a><br><sub>Canvas · 32K views</sub></td></tr>
 </table>
 
 ## Long-form

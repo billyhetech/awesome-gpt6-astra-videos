@@ -3,7 +3,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.d078172116.webp" alt="GPT-6 Astra 爆款视频墙:游戏、3D 场景、讲解动画、动态图形" width="100%"></a>
+<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.b83f5a0c6b.webp" alt="GPT-6 Astra 爆款视频墙:游戏、3D 场景、讲解动画、动态图形" width="100%"></a>
 
 用 **GPT-6 Astra**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
@@ -54,7 +54,7 @@
 ## 游戏与交互
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">详情</a><br><sub>Canvas · 141K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/agi-developers-world-unite-break-grip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>"AGI developers of the world, unite! Break the grip of the few. Build a future…</b></a><br><a href="https://x.com/Xanderwow_A/status/2113345392238903325"><b>@Xanderwow_A</b></a> · <a href="prompts/xanderwow-a-903325.md">提示词</a><br><sub>Canvas · 32K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">详情</a><br><sub>Canvas · 141K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/agi-developers-world-unite-break-grip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-903325/preview.webp" alt="GPT-6 Astra video by @Xanderwow_A" width="100%"></a><br><a href="https://x.com/Xanderwow_A/status/2113345392238903325"><b>@Xanderwow_A</b></a> · <a href="prompts/xanderwow-a-903325.md">提示词</a><br><sub>Canvas · 32K views</sub></td></tr>
 </table>
 
 ## 长片

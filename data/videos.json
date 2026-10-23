@@ -818,6 +818,18 @@
   "stats_snapshot": {
    "views": 31608,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-903325/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-903325/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-903325/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-903325/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 173058,
+   "bytes": 29817270,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -838,6 +850,18 @@
   "stats_snapshot": {
    "views": 30358,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/scenario-gg-643591/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/scenario-gg-643591/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/scenario-gg-643591/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/scenario-gg-643591/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 24500,
+   "bytes": 2699855,
+   "synced_at": "2026-10-23"
   }
  }
 ]
