@@ -863,5 +863,46 @@
    "bytes": 2699855,
    "synced_at": "2026-10-23"
   }
+ },
+ {
+  "slug": "ai-screening-221830",
+  "seo_slug": "kimi-k3-1-pro-vs-opus",
+  "model": "gpt-6-astra",
+  "author": "AI_Screening",
+  "author_url": "https://x.com/AI_Screening",
+  "post_url": "https://x.com/AI_Screening/status/2113688082474221830",
+  "title": "Kimi K3.1 pro vs. Opus 5.5 vs. GPT-6 Astra single html file three.js test.",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-24",
+  "stats_snapshot": {
+   "views": 155673,
+   "captured_at": "2026-10-24"
+  }
+ },
+ {
+  "slug": "bhavani-00007-449755",
+  "seo_slug": "kimi-k3-1-basically-open-weight",
+  "model": "gpt-6-astra",
+  "author": "Bhavani_00007",
+  "author_url": "https://x.com/Bhavani_00007",
+  "post_url": "https://x.com/Bhavani_00007/status/2113727486580449755",
+  "title": "Kimi K3.1 is basically the open-weight version of Opus 5.5 / GPT-6 Astra, but w…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-24",
+  "stats_snapshot": {
+   "views": 42626,
+   "captured_at": "2026-10-24"
+  }
  }
 ]

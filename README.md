@@ -7,7 +7,7 @@
 
 Viral videos made with **GPT-6 Astra** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 27 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
+**[▶ Watch all 29 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,14 +15,14 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 **1 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-23): 27 videos total
+- Latest update (2026-10-24): 29 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Motion graphics](#motion-graphics) (23)
+- [Motion graphics](#motion-graphics) (24)
 - [Explainers](#explainers) (1)
-- [3D scenes](#3d-scenes) (1)
+- [3D scenes](#3d-scenes) (2)
 - [Games & interactive](#games--interactive) (2)
 - [Long-form](#long-form) (0)
 - [Music videos](#music-videos) (0)
@@ -37,7 +37,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/congrats-gemini-4-argon-taking-top?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/scaleailabs-040176/preview.webp" alt="GPT-6 Astra video by @ScaleAILabs" width="100%"></a><br><a href="https://x.com/ScaleAILabs/status/2110455008450040176"><b>@ScaleAILabs</b></a> · <a href="prompts/scaleailabs-040176.md">Details</a><br><sub>Canvas · 99K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/codex-magpie-token?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/preview.webp" alt="GPT-6 Astra video by @hiwise_aigc" width="100%"></a><br><a href="https://x.com/hiwise_aigc/status/2111372474764145080"><b>@hiwise_aigc</b></a> · <a href="prompts/hiwise-aigc-145080.md">Details</a><br><sub>Canvas · 86K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-vs-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/envoldev-048620/preview.webp" alt="GPT-6 Astra video by @EnvolDev" width="100%"></a><br><a href="https://x.com/EnvolDev/status/2111175666398048620"><b>@EnvolDev</b></a> · <a href="prompts/envoldev-048620.md">Details</a><br><sub>Canvas · 84K views</sub></td></tr>
 </table>
 
-[▶ See all 23 on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
+[▶ See all 24 on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
 
 ## Explainers
 
@@ -48,7 +48,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 ## 3D scenes
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/testing-margarita-sloshing-effect-gemini-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/ann-nnng-126769/preview.webp" alt="GPT-6 Astra video by @ann_nnng" width="100%"></a><br><a href="https://x.com/ann_nnng/status/2110234900616126769"><b>@ann_nnng</b></a> · <a href="prompts/ann-nnng-126769.md">Details</a><br><sub>Three.js · WebGL · 85K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/testing-margarita-sloshing-effect-gemini-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/ann-nnng-126769/preview.webp" alt="GPT-6 Astra video by @ann_nnng" width="100%"></a><br><a href="https://x.com/ann_nnng/status/2110234900616126769"><b>@ann_nnng</b></a> · <a href="prompts/ann-nnng-126769.md">Details</a><br><sub>Three.js · WebGL · 85K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/kimi-k3-1-pro-vs-opus?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>Kimi K3.1 pro vs. Opus 5.5 vs. GPT-6 Astra single html file three.js test.</b></a><br><a href="https://x.com/AI_Screening/status/2113688082474221830"><b>@AI_Screening</b></a> · <a href="prompts/ai-screening-221830.md">Details</a><br><sub>Three.js · Canvas · 156K views</sub></td></tr>
 </table>
 
 ## Games & interactive
@@ -67,6 +67,8 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gpt6-ast
 
 ## Latest videos
 
+- [Kimi K3.1 pro vs. Opus 5.5 vs. GPT-6 Astra single html file three.js test.](https://clawshelf.com/ai-videos/gpt-6-astra/kimi-k3-1-pro-vs-opus?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AI_Screening](https://x.com/AI_Screening/status/2113688082474221830) · [Details](prompts/ai-screening-221830.md)
+- [Kimi K3.1 is basically the open-weight version of Opus 5.5 / GPT-6 Astra, but w…](https://clawshelf.com/ai-videos/gpt-6-astra/kimi-k3-1-basically-open-weight?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Bhavani_00007](https://x.com/Bhavani_00007/status/2113727486580449755) · [Details](prompts/bhavani-00007-449755.md)
 - ["AGI developers of the world, unite! Break the grip of the few. Build a future…](https://clawshelf.com/ai-videos/gpt-6-astra/agi-developers-world-unite-break-grip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Xanderwow_A](https://x.com/Xanderwow_A/status/2113345392238903325) · [Prompt](prompts/xanderwow-a-903325.md)
 - [We just open-sourced 1,300+ 3D models.](https://clawshelf.com/ai-videos/gpt-6-astra/open-sourced-1300-3d-models?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Scenario_gg](https://x.com/Scenario_gg/status/2113635335267643591) · [Details](prompts/scenario-gg-643591.md)
 - [Jensen closed his GTC Berlin 2026 keynote with this Hermes Agent demo as the fi…](https://clawshelf.com/ai-videos/gpt-6-astra/jensen-closed-his-gtc-berlin-2026?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@NousResearch](https://x.com/NousResearch/status/2113010017645244623) · [Details](prompts/nousresearch-244623.md)
