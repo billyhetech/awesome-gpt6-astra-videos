@@ -3,7 +3,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.b83f5a0c6b.webp" alt="A wall of viral videos made with GPT-6 Astra: games, 3D scenes, explainers and motion graphics" width="100%"></a>
+<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.521470183e.webp" alt="A wall of viral videos made with GPT-6 Astra: games, 3D scenes, explainers and motion graphics" width="100%"></a>
 
 Viral videos made with **GPT-6 Astra** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
@@ -48,7 +48,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 ## 3D scenes
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/testing-margarita-sloshing-effect-gemini-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/ann-nnng-126769/preview.webp" alt="GPT-6 Astra video by @ann_nnng" width="100%"></a><br><a href="https://x.com/ann_nnng/status/2110234900616126769"><b>@ann_nnng</b></a> · <a href="prompts/ann-nnng-126769.md">Details</a><br><sub>Three.js · WebGL · 85K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/kimi-k3-1-pro-vs-opus?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>Kimi K3.1 pro vs. Opus 5.5 vs. GPT-6 Astra single html file three.js test.</b></a><br><a href="https://x.com/AI_Screening/status/2113688082474221830"><b>@AI_Screening</b></a> · <a href="prompts/ai-screening-221830.md">Details</a><br><sub>Three.js · Canvas · 156K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/kimi-k3-1-pro-vs-opus?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/ai-screening-221830/preview.webp" alt="GPT-6 Astra video by @AI_Screening" width="100%"></a><br><a href="https://x.com/AI_Screening/status/2113688082474221830"><b>@AI_Screening</b></a> · <a href="prompts/ai-screening-221830.md">Details</a><br><sub>Three.js · Canvas · 156K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/testing-margarita-sloshing-effect-gemini-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/ann-nnng-126769/preview.webp" alt="GPT-6 Astra video by @ann_nnng" width="100%"></a><br><a href="https://x.com/ann_nnng/status/2110234900616126769"><b>@ann_nnng</b></a> · <a href="prompts/ann-nnng-126769.md">Details</a><br><sub>Three.js · WebGL · 85K views</sub></td></tr>
 </table>
 
 ## Games & interactive

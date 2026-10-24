@@ -3,7 +3,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.b83f5a0c6b.webp" alt="GPT-6 Astra 爆款视频墙:游戏、3D 场景、讲解动画、动态图形" width="100%"></a>
+<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.521470183e.webp" alt="GPT-6 Astra 爆款视频墙:游戏、3D 场景、讲解动画、动态图形" width="100%"></a>
 
 用 **GPT-6 Astra**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
@@ -48,7 +48,7 @@
 ## 3D 场景
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/testing-margarita-sloshing-effect-gemini-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/ann-nnng-126769/preview.webp" alt="GPT-6 Astra video by @ann_nnng" width="100%"></a><br><a href="https://x.com/ann_nnng/status/2110234900616126769"><b>@ann_nnng</b></a> · <a href="prompts/ann-nnng-126769.md">详情</a><br><sub>Three.js · WebGL · 85K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/kimi-k3-1-pro-vs-opus?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>Kimi K3.1 pro vs. Opus 5.5 vs. GPT-6 Astra single html file three.js test.</b></a><br><a href="https://x.com/AI_Screening/status/2113688082474221830"><b>@AI_Screening</b></a> · <a href="prompts/ai-screening-221830.md">详情</a><br><sub>Three.js · Canvas · 156K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/kimi-k3-1-pro-vs-opus?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/ai-screening-221830/preview.webp" alt="GPT-6 Astra video by @AI_Screening" width="100%"></a><br><a href="https://x.com/AI_Screening/status/2113688082474221830"><b>@AI_Screening</b></a> · <a href="prompts/ai-screening-221830.md">详情</a><br><sub>Three.js · Canvas · 156K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/testing-margarita-sloshing-effect-gemini-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/ann-nnng-126769/preview.webp" alt="GPT-6 Astra video by @ann_nnng" width="100%"></a><br><a href="https://x.com/ann_nnng/status/2110234900616126769"><b>@ann_nnng</b></a> · <a href="prompts/ann-nnng-126769.md">详情</a><br><sub>Three.js · WebGL · 85K views</sub></td></tr>
 </table>
 
 ## 游戏与交互

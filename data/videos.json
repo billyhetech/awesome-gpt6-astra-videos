@@ -883,6 +883,18 @@
   "stats_snapshot": {
    "views": 155673,
    "captured_at": "2026-10-24"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/ai-screening-221830/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/ai-screening-221830/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/ai-screening-221830/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/ai-screening-221830/poster.jpg",
+   "width": 720,
+   "height": 1022,
+   "duration_ms": 14000,
+   "bytes": 2060396,
+   "synced_at": "2026-10-24"
   }
  },
  {
@@ -903,6 +915,18 @@
   "stats_snapshot": {
    "views": 42626,
    "captured_at": "2026-10-24"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/bhavani-00007-449755/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/bhavani-00007-449755/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/bhavani-00007-449755/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/bhavani-00007-449755/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 20000,
+   "bytes": 2251721,
+   "synced_at": "2026-10-24"
   }
  }
 ]
