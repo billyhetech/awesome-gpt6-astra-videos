@@ -947,6 +947,18 @@
   "stats_snapshot": {
    "views": 23438,
    "captured_at": "2026-10-25"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/emmanuel-2m-241966/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/emmanuel-2m-241966/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/emmanuel-2m-241966/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/emmanuel-2m-241966/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 27850,
+   "bytes": 3100895,
+   "synced_at": "2026-10-25"
   }
  },
  {
@@ -967,6 +979,18 @@
   "stats_snapshot": {
    "views": 12024,
    "captured_at": "2026-10-25"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/chetanankola-877485/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/chetanankola-877485/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/chetanankola-877485/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/chetanankola-877485/poster.jpg",
+   "width": 870,
+   "height": 720,
+   "duration_ms": 17950,
+   "bytes": 2685789,
+   "synced_at": "2026-10-25"
   }
  }
 ]
