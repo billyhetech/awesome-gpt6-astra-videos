@@ -928,5 +928,45 @@
    "bytes": 2251721,
    "synced_at": "2026-10-24"
   }
+ },
+ {
+  "slug": "emmanuel-2m-241966",
+  "seo_slug": "open-sourced-1300-3d-models-by-emmanuel-2m",
+  "model": "gpt-6-astra",
+  "author": "emmanuel_2m",
+  "author_url": "https://x.com/emmanuel_2m",
+  "post_url": "https://x.com/emmanuel_2m/status/2113990638748241966",
+  "title": "We just open-sourced 1,300+ 3D models.",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 23438,
+   "captured_at": "2026-10-25"
+  }
+ },
+ {
+  "slug": "chetanankola-877485",
+  "seo_slug": "swamp-threejs-gpt-6-astra",
+  "model": "gpt-6-astra",
+  "author": "chetanankola",
+  "author_url": "https://x.com/chetanankola",
+  "post_url": "https://x.com/chetanankola/status/2113909026253877485",
+  "title": "Just a swamp in threejs made with gpt 6 Astra",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 12024,
+   "captured_at": "2026-10-25"
+  }
  }
 ]
