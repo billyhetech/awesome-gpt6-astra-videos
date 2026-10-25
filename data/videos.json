@@ -992,5 +992,45 @@
    "bytes": 2685789,
    "synced_at": "2026-10-25"
   }
+ },
+ {
+  "slug": "kimi-moonshot-357279",
+  "seo_slug": "k3-1-pro-works-directly-tools",
+  "model": "gpt-6-astra",
+  "author": "Kimi_Moonshot",
+  "author_url": "https://x.com/Kimi_Moonshot",
+  "post_url": "https://x.com/Kimi_Moonshot/status/2113680710150357279",
+  "title": "K3.1 Pro works directly in the tools used by the 3D modeling and game industrie…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 144806,
+   "captured_at": "2026-10-25"
+  }
+ },
+ {
+  "slug": "hakimieiqbal-377037",
+  "seo_slug": "gpt-6-astra-helped-mobile-driving",
+  "model": "gpt-6-astra",
+  "author": "hakimieiqbal",
+  "author_url": "https://x.com/hakimieiqbal",
+  "post_url": "https://x.com/hakimieiqbal/status/2113965521301377037",
+  "title": "GPT-6 Astra helped build this mobile driving game in just 3 days with zero prev…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 29355,
+   "captured_at": "2026-10-25"
+  }
  }
 ]

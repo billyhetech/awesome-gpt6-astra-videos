@@ -7,7 +7,7 @@
 
 Viral videos made with **GPT-6 Astra** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 31 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
+**[▶ Watch all 33 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,7 +15,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 **1 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-25): 31 videos total
+- Latest update (2026-10-25): 33 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
@@ -23,7 +23,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 - [Motion graphics](#motion-graphics) (25)
 - [Explainers](#explainers) (1)
 - [3D scenes](#3d-scenes) (3)
-- [Games & interactive](#games--interactive) (2)
+- [Games & interactive](#games--interactive) (4)
 - [Long-form](#long-form) (0)
 - [Music videos](#music-videos) (0)
 - [Latest videos](#latest-videos)
@@ -54,7 +54,8 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 ## Games & interactive
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">Details</a><br><sub>Canvas · 141K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/agi-developers-world-unite-break-grip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-903325/preview.webp" alt="GPT-6 Astra video by @Xanderwow_A" width="100%"></a><br><a href="https://x.com/Xanderwow_A/status/2113345392238903325"><b>@Xanderwow_A</b></a> · <a href="prompts/xanderwow-a-903325.md">Prompt</a><br><sub>Canvas · 32K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">Details</a><br><sub>Canvas · 141K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/agi-developers-world-unite-break-grip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-903325/preview.webp" alt="GPT-6 Astra video by @Xanderwow_A" width="100%"></a><br><a href="https://x.com/Xanderwow_A/status/2113345392238903325"><b>@Xanderwow_A</b></a> · <a href="prompts/xanderwow-a-903325.md">Prompt</a><br><sub>Canvas · 32K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/k3-1-pro-works-directly-tools?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>K3.1 Pro works directly in the tools used by the 3D modeling and game industrie…</b></a><br><a href="https://x.com/Kimi_Moonshot/status/2113680710150357279"><b>@Kimi_Moonshot</b></a> · <a href="prompts/kimi-moonshot-357279.md">Details</a><br><sub>Blender · 145K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-helped-mobile-driving?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>GPT-6 Astra helped build this mobile driving game in just 3 days with zero prev…</b></a><br><a href="https://x.com/hakimieiqbal/status/2113965521301377037"><b>@hakimieiqbal</b></a> · <a href="prompts/hakimieiqbal-377037.md">Details</a><br><sub>Canvas · 29K views</sub></td></tr>
 </table>
 
 ## Long-form
@@ -67,6 +68,8 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gpt6-ast
 
 ## Latest videos
 
+- [K3.1 Pro works directly in the tools used by the 3D modeling and game industrie…](https://clawshelf.com/ai-videos/gpt-6-astra/k3-1-pro-works-directly-tools?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Kimi_Moonshot](https://x.com/Kimi_Moonshot/status/2113680710150357279) · [Details](prompts/kimi-moonshot-357279.md)
+- [GPT-6 Astra helped build this mobile driving game in just 3 days with zero prev…](https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-helped-mobile-driving?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@hakimieiqbal](https://x.com/hakimieiqbal/status/2113965521301377037) · [Details](prompts/hakimieiqbal-377037.md)
 - [We just open-sourced 1,300+ 3D models.](https://clawshelf.com/ai-videos/gpt-6-astra/open-sourced-1300-3d-models-by-emmanuel-2m?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@emmanuel_2m](https://x.com/emmanuel_2m/status/2113990638748241966) · [Details](prompts/emmanuel-2m-241966.md)
 - [Just a swamp in threejs made with gpt 6 Astra](https://clawshelf.com/ai-videos/gpt-6-astra/swamp-threejs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@chetanankola](https://x.com/chetanankola/status/2113909026253877485) · [Details](prompts/chetanankola-877485.md)
 - [Kimi K3.1 pro vs. Opus 5.5 vs. GPT-6 Astra single html file three.js test.](https://clawshelf.com/ai-videos/gpt-6-astra/kimi-k3-1-pro-vs-opus?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AI_Screening](https://x.com/AI_Screening/status/2113688082474221830) · [Details](prompts/ai-screening-221830.md)
@@ -95,8 +98,6 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gpt6-ast
 - [4 Argon vs Opus 5.5 vs GPT 6 Astra vs Kimi K3](https://clawshelf.com/ai-videos/gpt-6-astra/4-argon-vs-opus-5-5-vs?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Bhavani_00007](https://x.com/Bhavani_00007/status/2110078803297055212) · [Details](prompts/bhavani-00007-055212.md)
 - [Opus 5.5 vs Gemini 4 Argon vs Gpt 6.1 Sol vs Gpt 6 Astra](https://clawshelf.com/ai-videos/gpt-6-astra/opus-5-5-vs-gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@rubenssoto_ai](https://x.com/rubenssoto_ai/status/2110192618269221048) · [Details](prompts/rubenssoto-ai-221048.md)
 - [Congrats to Gemini 4 Argon for taking the top spot of our Humanity's Sixth Sens…](https://clawshelf.com/ai-videos/gpt-6-astra/congrats-gemini-4-argon-taking-top?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@ScaleAILabs](https://x.com/ScaleAILabs/status/2110455008450040176) · [Details](prompts/scaleailabs-040176.md)
-- [testing the margarita sloshing effect with Gemini 4 Argon, Muse Wonder, Claude…](https://clawshelf.com/ai-videos/gpt-6-astra/testing-margarita-sloshing-effect-gemini-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@ann_nnng](https://x.com/ann_nnng/status/2110234900616126769) · [Details](prompts/ann-nnng-126769.md)
-- [Gemini 4 Argon achieves SOTA on real robot capabilities, tied with Opus 5.5 and…](https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-achieves-sota-real?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@chooi_jeq](https://x.com/chooi_jeq/status/2110474369952858195) · [Details](prompts/chooi-jeq-858195.md)
 
 ## How to use a prompt
 
