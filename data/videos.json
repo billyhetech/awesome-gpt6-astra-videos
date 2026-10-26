@@ -1120,5 +1120,65 @@
    "bytes": 15484703,
    "synced_at": "2026-10-26"
   }
+ },
+ {
+  "slug": "engmoelgaraihy-844065",
+  "seo_slug": "motion-graphics-by-engmoelgaraihy",
+  "model": "gpt-6-astra",
+  "author": "EngMoElgaraihy",
+  "author_url": "https://x.com/EngMoElgaraihy",
+  "post_url": "https://x.com/EngMoElgaraihy/status/2114381751132844065",
+  "title": "الوضع أصبح مرعباً حقاً! 🚨🔥",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 126119,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "xanderwow-a-787802",
+  "seo_slug": "mv-more-ram-less-scam",
+  "model": "gpt-6-astra",
+  "author": "Xanderwow_A",
+  "author_url": "https://x.com/Xanderwow_A",
+  "post_url": "https://x.com/Xanderwow_A/status/2114414684073787802",
+  "title": "劲爆金曲MV第五首：“More RAM, less scam!\"",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 110179,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "openai-754261",
+  "seo_slug": "gpt-6-1-terra-continues-advance",
+  "model": "gpt-6-astra",
+  "author": "OpenAI",
+  "author_url": "https://x.com/OpenAI",
+  "post_url": "https://x.com/OpenAI/status/2114780715086754261",
+  "title": "GPT-6.1 Terra continues to advance the cost-intelligence frontier across our mo…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 53729,
+   "captured_at": "2026-10-26"
+  }
  }
 ]

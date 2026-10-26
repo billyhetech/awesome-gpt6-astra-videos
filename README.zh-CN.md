@@ -7,7 +7,7 @@
 
 用 **GPT-6 Astra**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 35 条视频](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
+**[▶ 在 clawshelf.com 观看全部 38 条视频](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@
 
 [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **1 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-26):共 35 条
+- 最近更新(2026-10-26):共 38 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (27)
+- [动态图形](#动态图形) (30)
 - [讲解动画](#讲解动画) (1)
 - [3D 场景](#3d-场景) (3)
 - [游戏与交互](#游戏与交互) (4)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/opus-5-5-vs-gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/rubenssoto-ai-221048/preview.webp" alt="GPT-6 Astra video by @rubenssoto_ai" width="100%"></a><br><a href="https://x.com/rubenssoto_ai/status/2110192618269221048"><b>@rubenssoto_ai</b></a> · <a href="prompts/rubenssoto-ai-221048.md">详情</a><br><sub>Canvas · 109K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/congrats-gemini-4-argon-taking-top?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/scaleailabs-040176/preview.webp" alt="GPT-6 Astra video by @ScaleAILabs" width="100%"></a><br><a href="https://x.com/ScaleAILabs/status/2110455008450040176"><b>@ScaleAILabs</b></a> · <a href="prompts/scaleailabs-040176.md">详情</a><br><sub>Canvas · 99K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/codex-magpie-token?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/preview.webp" alt="GPT-6 Astra video by @hiwise_aigc" width="100%"></a><br><a href="https://x.com/hiwise_aigc/status/2111372474764145080"><b>@hiwise_aigc</b></a> · <a href="prompts/hiwise-aigc-145080.md">详情</a><br><sub>Canvas · 86K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 27 条](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
+[▶ 在 clawshelf.com 查看全部 30 条](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
 
 ## 讲解动画
 
@@ -69,6 +69,9 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 ## 最新收录
 
 - [It's becoming f*cking dangerous: when Moonshot released Kimi K3.1 Pro, they did…](https://clawshelf.com/ai-videos/gpt-6-astra/becoming-f-cking-dangerous-when-moonshot?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@elvar_official](https://x.com/elvar_official/status/2114325660248281265) · [详情](prompts/elvar-official-281265.md)
+- [الوضع أصبح مرعباً حقاً! 🚨🔥](https://clawshelf.com/ai-videos/gpt-6-astra/motion-graphics-by-engmoelgaraihy?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@EngMoElgaraihy](https://x.com/EngMoElgaraihy/status/2114381751132844065) · [详情](prompts/engmoelgaraihy-844065.md)
+- [劲爆金曲MV第五首：“More RAM, less scam!"](https://clawshelf.com/ai-videos/gpt-6-astra/mv-more-ram-less-scam?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Xanderwow_A](https://x.com/Xanderwow_A/status/2114414684073787802) · [详情](prompts/xanderwow-a-787802.md)
+- [GPT-6.1 Terra continues to advance the cost-intelligence frontier across our mo…](https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-1-terra-continues-advance?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@OpenAI](https://x.com/OpenAI/status/2114780715086754261) · [详情](prompts/openai-754261.md)
 - [花了5天的时间，终于把我的Agent自动化流水线做完啦哈哈。](https://clawshelf.com/ai-videos/gpt-6-astra/5-agent?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Khazix0918](https://x.com/Khazix0918/status/2114343004471460341) · [详情](prompts/khazix0918-460341.md)
 - [K3.1 Pro works directly in the tools used by the 3D modeling and game industrie…](https://clawshelf.com/ai-videos/gpt-6-astra/k3-1-pro-works-directly-tools?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Kimi_Moonshot](https://x.com/Kimi_Moonshot/status/2113680710150357279) · [详情](prompts/kimi-moonshot-357279.md)
 - [GPT-6 Astra helped build this mobile driving game in just 3 days with zero prev…](https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-helped-mobile-driving?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@hakimieiqbal](https://x.com/hakimieiqbal/status/2113965521301377037) · [详情](prompts/hakimieiqbal-377037.md)
@@ -95,9 +98,6 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 - [GPT-6 Astra vs Human in After Effects](https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-vs-human-after?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AmirMushich](https://x.com/AmirMushich/status/2110394800411185404) · [详情](prompts/amirmushich-185404.md)
 - [> be Alexandr Wang](https://clawshelf.com/ai-videos/gpt-6-astra/alexandr-wang?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@kirillk_web3](https://x.com/kirillk_web3/status/2109994814649651211) · [详情](prompts/kirillk-web3-651211.md)
 - [OMG. I asked GPT-6 Astra to turn profile picture into a fully 3D model.](https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-turn-profile-picture?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@StefanoGPT](https://x.com/StefanoGPT/status/2110098269904789797) · [详情](prompts/stefanogpt-789797.md)
-- [Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial An…](https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-ga-argon-ranks?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@ArtificialAnlys](https://x.com/ArtificialAnlys/status/2110068185793970576) · [详情](prompts/artificialanlys-970576.md)
-- [Gemini 4 Argon vs GPT 6 Astra](https://clawshelf.com/ai-videos/gpt-6-astra/gemini-4-argon-vs-gpt-6?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AiHubMix](https://x.com/AiHubMix/status/2110027719476199856) · [详情](prompts/aihubmix-199856.md)
-- [4 Argon vs Opus 5.5 vs GPT 6 Astra vs Kimi K3](https://clawshelf.com/ai-videos/gpt-6-astra/4-argon-vs-opus-5-5-vs?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Bhavani_00007](https://x.com/Bhavani_00007/status/2110078803297055212) · [详情](prompts/bhavani-00007-055212.md)
 
 ## 如何使用 prompt
 
