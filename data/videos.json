@@ -1139,6 +1139,18 @@
   "stats_snapshot": {
    "views": 126119,
    "captured_at": "2026-10-26"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/engmoelgaraihy-844065/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/engmoelgaraihy-844065/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/engmoelgaraihy-844065/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/engmoelgaraihy-844065/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 20000,
+   "bytes": 2632588,
+   "synced_at": "2026-10-26"
   }
  },
  {
@@ -1159,6 +1171,18 @@
   "stats_snapshot": {
    "views": 110179,
    "captured_at": "2026-10-26"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-787802/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-787802/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-787802/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-787802/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 165651,
+   "bytes": 27822022,
+   "synced_at": "2026-10-26"
   }
  },
  {
@@ -1179,6 +1203,18 @@
   "stats_snapshot": {
    "views": 53729,
    "captured_at": "2026-10-26"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/openai-754261/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/openai-754261/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/openai-754261/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/openai-754261/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 120000,
+   "bytes": 7677364,
+   "synced_at": "2026-10-26"
   }
  }
 ]
