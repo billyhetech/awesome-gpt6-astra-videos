@@ -1216,5 +1216,45 @@
    "bytes": 7677364,
    "synced_at": "2026-10-26"
   }
+ },
+ {
+  "slug": "141store-887274",
+  "seo_slug": "zzz-hsr-collab-character-robin-astra",
+  "model": "gpt-6-astra",
+  "author": "141STORE",
+  "author_url": "https://x.com/141STORE",
+  "post_url": "https://x.com/141STORE/status/2115641755936887274",
+  "title": "ZZZ &amp; HSR Collab Character Robin &amp; Astra Yao In-Game Official Animation…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 94024,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "artificialanlys-748492",
+  "seo_slug": "same-robot-same-task-two-models",
+  "model": "gpt-6-astra",
+  "author": "ArtificialAnlys",
+  "author_url": "https://x.com/ArtificialAnlys",
+  "post_url": "https://x.com/ArtificialAnlys/status/2115567357506748492",
+  "title": "Same robot, same task, two models with very different writing styles",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 54531,
+   "captured_at": "2026-10-29"
+  }
  }
 ]

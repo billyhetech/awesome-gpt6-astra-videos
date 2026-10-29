@@ -7,7 +7,7 @@
 
 Viral videos made with **GPT-6 Astra** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 38 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
+**[▶ Watch all 40 videos on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,15 +15,15 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 **1 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-gpt6-astra-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-26): 38 videos total
+- Latest update (2026-10-29): 40 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Motion graphics](#motion-graphics) (30)
+- [Motion graphics](#motion-graphics) (31)
 - [Explainers](#explainers) (1)
 - [3D scenes](#3d-scenes) (3)
-- [Games & interactive](#games--interactive) (4)
+- [Games & interactive](#games--interactive) (5)
 - [Long-form](#long-form) (0)
 - [Music videos](#music-videos) (0)
 - [Latest videos](#latest-videos)
@@ -37,7 +37,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/motion-graphics-by-engmoelgaraihy?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/engmoelgaraihy-844065/preview.webp" alt="GPT-6 Astra video by @EngMoElgaraihy" width="100%"></a><br><a href="https://x.com/EngMoElgaraihy/status/2114381751132844065"><b>@EngMoElgaraihy</b></a> · <a href="prompts/engmoelgaraihy-844065.md">Details</a><br><sub>Canvas · 126K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/mv-more-ram-less-scam?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-787802/preview.webp" alt="GPT-6 Astra video by @Xanderwow_A" width="100%"></a><br><a href="https://x.com/Xanderwow_A/status/2114414684073787802"><b>@Xanderwow_A</b></a> · <a href="prompts/xanderwow-a-787802.md">Details</a><br><sub>Canvas · 110K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/opus-5-5-vs-gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/rubenssoto-ai-221048/preview.webp" alt="GPT-6 Astra video by @rubenssoto_ai" width="100%"></a><br><a href="https://x.com/rubenssoto_ai/status/2110192618269221048"><b>@rubenssoto_ai</b></a> · <a href="prompts/rubenssoto-ai-221048.md">Details</a><br><sub>Canvas · 109K views</sub></td></tr>
 </table>
 
-[▶ See all 30 on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
+[▶ See all 31 on clawshelf.com](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos&category=motion)
 
 ## Explainers
 
@@ -55,7 +55,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 <table>
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/k3-1-pro-works-directly-tools?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/kimi-moonshot-357279/preview.webp" alt="GPT-6 Astra video by @Kimi_Moonshot" width="100%"></a><br><a href="https://x.com/Kimi_Moonshot/status/2113680710150357279"><b>@Kimi_Moonshot</b></a> · <a href="prompts/kimi-moonshot-357279.md">Details</a><br><sub>Blender · 145K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/elvar-official-001654/preview.webp" alt="GPT-6 Astra video by @elvar_official" width="100%"></a><br><a href="https://x.com/elvar_official/status/2109591871727001654"><b>@elvar_official</b></a> · <a href="prompts/elvar-official-001654.md">Details</a><br><sub>Canvas · 141K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/agi-developers-world-unite-break-grip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/xanderwow-a-903325/preview.webp" alt="GPT-6 Astra video by @Xanderwow_A" width="100%"></a><br><a href="https://x.com/Xanderwow_A/status/2113345392238903325"><b>@Xanderwow_A</b></a> · <a href="prompts/xanderwow-a-903325.md">Prompt</a><br><sub>Canvas · 32K views</sub></td></tr>
-<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-helped-mobile-driving?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/hakimieiqbal-377037/preview.webp" alt="GPT-6 Astra video by @hakimieiqbal" width="100%"></a><br><a href="https://x.com/hakimieiqbal/status/2113965521301377037"><b>@hakimieiqbal</b></a> · <a href="prompts/hakimieiqbal-377037.md">Details</a><br><sub>Canvas · 29K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-helped-mobile-driving?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/hakimieiqbal-377037/preview.webp" alt="GPT-6 Astra video by @hakimieiqbal" width="100%"></a><br><a href="https://x.com/hakimieiqbal/status/2113965521301377037"><b>@hakimieiqbal</b></a> · <a href="prompts/hakimieiqbal-377037.md">Details</a><br><sub>Canvas · 29K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/zzz-hsr-collab-character-robin-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><b>ZZZ &amp; HSR Collab Character Robin &amp; Astra Yao In-Game Official Animation…</b></a><br><a href="https://x.com/141STORE/status/2115641755936887274"><b>@141STORE</b></a> · <a href="prompts/141store-887274.md">Details</a><br><sub>Canvas · 94K views</sub></td></tr>
 </table>
 
 ## Long-form
@@ -68,6 +68,8 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gpt6-ast
 
 ## Latest videos
 
+- [ZZZ &amp; HSR Collab Character Robin &amp; Astra Yao In-Game Official Animation…](https://clawshelf.com/ai-videos/gpt-6-astra/zzz-hsr-collab-character-robin-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@141STORE](https://x.com/141STORE/status/2115641755936887274) · [Details](prompts/141store-887274.md)
+- [Same robot, same task, two models with very different writing styles](https://clawshelf.com/ai-videos/gpt-6-astra/same-robot-same-task-two-models?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@ArtificialAnlys](https://x.com/ArtificialAnlys/status/2115567357506748492) · [Details](prompts/artificialanlys-748492.md)
 - [It's becoming f*cking dangerous: when Moonshot released Kimi K3.1 Pro, they did…](https://clawshelf.com/ai-videos/gpt-6-astra/becoming-f-cking-dangerous-when-moonshot?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@elvar_official](https://x.com/elvar_official/status/2114325660248281265) · [Details](prompts/elvar-official-281265.md)
 - [الوضع أصبح مرعباً حقاً! 🚨🔥](https://clawshelf.com/ai-videos/gpt-6-astra/motion-graphics-by-engmoelgaraihy?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@EngMoElgaraihy](https://x.com/EngMoElgaraihy/status/2114381751132844065) · [Details](prompts/engmoelgaraihy-844065.md)
 - [劲爆金曲MV第五首：“More RAM, less scam!"](https://clawshelf.com/ai-videos/gpt-6-astra/mv-more-ram-less-scam?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@Xanderwow_A](https://x.com/Xanderwow_A/status/2114414684073787802) · [Details](prompts/xanderwow-a-787802.md)
@@ -96,8 +98,6 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gpt6-ast
 - [A 15-year-old kid from China asked his parents for $45.](https://clawshelf.com/ai-videos/gpt-6-astra/15-year-old-kid-china-his?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@elvar_official](https://x.com/elvar_official/status/2109591871727001654) · [Details](prompts/elvar-official-001654.md)
 - [Do NOT use GPT-6 Astra to help fabricate things you need by prompting them into…](https://clawshelf.com/ai-videos/gpt-6-astra/not-use-gpt-6-astra-help?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@slimer48484](https://x.com/slimer48484/status/2110697784898953664) · [Details](prompts/slimer48484-953664.md)
 - [GPT-6 Astra vs Human in After Effects](https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-vs-human-after?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@AmirMushich](https://x.com/AmirMushich/status/2110394800411185404) · [Details](prompts/amirmushich-185404.md)
-- [> be Alexandr Wang](https://clawshelf.com/ai-videos/gpt-6-astra/alexandr-wang?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@kirillk_web3](https://x.com/kirillk_web3/status/2109994814649651211) · [Details](prompts/kirillk-web3-651211.md)
-- [OMG. I asked GPT-6 Astra to turn profile picture into a fully 3D model.](https://clawshelf.com/ai-videos/gpt-6-astra/gpt-6-astra-turn-profile-picture?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos) — [@StefanoGPT](https://x.com/StefanoGPT/status/2110098269904789797) · [Details](prompts/stefanogpt-789797.md)
 
 ## How to use a prompt
 
