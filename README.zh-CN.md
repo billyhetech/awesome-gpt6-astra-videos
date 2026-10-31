@@ -3,7 +3,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.07659cabb9.webp" alt="GPT-6 Astra 爆款视频墙:游戏、3D 场景、讲解动画、动态图形" width="100%"></a>
+<a href="https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt6-astra-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-gpt6-astra-videos/mosaic.1c1a00ea44.webp" alt="GPT-6 Astra 爆款视频墙:游戏、3D 场景、讲解动画、动态图形" width="100%"></a>
 
 用 **GPT-6 Astra**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 

@@ -1299,6 +1299,18 @@
   "stats_snapshot": {
    "views": 93528,
    "captured_at": "2026-10-31"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/noclipepe-550313/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/noclipepe-550313/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/noclipepe-550313/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/noclipepe-550313/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 27366,
+   "bytes": 2566948,
+   "synced_at": "2026-10-31"
   }
  },
  {
@@ -1319,6 +1331,18 @@
   "stats_snapshot": {
    "views": 50045,
    "captured_at": "2026-10-31"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/openaidevs-453386/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/openaidevs-453386/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/openaidevs-453386/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/openaidevs-453386/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 85001,
+   "bytes": 8799827,
+   "synced_at": "2026-10-31"
   }
  }
 ]
